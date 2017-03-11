@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using ClientWebSocket = System.Net.WebSockets.Managed.ClientWebSocket;
 
 namespace DungeonCrawlBot
 {

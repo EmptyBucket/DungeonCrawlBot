@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="10b563eb-9419-4911-ae25-97e9e1326e72" name="Default" comment="" />
+    <list default="true" id="10b563eb-9419-4911-ae25-97e9e1326e72" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/DungeonCrawlBot/v15/.suo" afterPath="$PROJECT_DIR$/.vs/DungeonCrawlBot/v15/.suo" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB.mdf" afterPath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB.mdf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB_log.ldf" afterPath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB_log.ldf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.exe" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.exe" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj" afterPath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlWebBotSocket.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlWebBotSocket.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/packages.config" afterPath="$PROJECT_DIR$/DungeonCrawlBot/packages.config" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,44 +59,26 @@
         <option name="myItemId" value="dbo" />
         <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
       </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="Accounts" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-    </PATH>
-    <PATH>
-      <PATH_ELEMENT>
-        <option name="myItemId" />
-        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
-      <PATH_ELEMENT>
-        <option name="myItemId" value="dbo" />
-        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
-      </PATH_ELEMENT>
     </PATH>
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="535">
-              <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+            <state relative-caret-position="375">
+              <caret line="59" column="55" lean-forward="true" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DungeonCrawlWebBotSocket.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DungeonCrawlWebBotSocket.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlWebBotSocket.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            <state relative-caret-position="405">
+              <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
               <folding />
             </state>
           </provider>
@@ -93,6 +92,9 @@
       <find>yandex</find>
       <find>ws://crawl.akrasiac.org:8080/socket</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -169,6 +171,9 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <flattenPackages />
@@ -219,7 +224,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="DDL Data Source&#10;SQL Server (Microsoft)&#10;SQL Server (jTds)&#10;Database Driver" />
-    <property name="SearchEverywhereHistoryKey" value="Adapter&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/HttpClientAdapter.cs&#10;Generate&#9;null&#9;null&#10;BehindTheNamePar&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parser&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parse&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;HttpMessa&#9;null&#9;null&#10;Program&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlBot/Program.cs&#10;settings&#9;ACTION&#9;Database.Settings&#10;AccountConfi&#9;FILE&#9;file://E:/DungeonCrawlBot/DataBase/AccountConfiguration.cs&#10;DataBase&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="Terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Adapter&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/HttpClientAdapter.cs&#10;Generate&#9;null&#9;null&#10;BehindTheNamePar&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parser&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parse&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;HttpMessa&#9;null&#9;null&#10;Program&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlBot/Program.cs&#10;settings&#9;ACTION&#9;Database.Settings&#10;AccountConfi&#9;FILE&#9;file://E:/DungeonCrawlBot/DataBase/AccountConfiguration.cs&#10;DataBase&#9;null&#9;null" />
     <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
@@ -346,7 +351,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55684000" />
+    <option name="totallyTimeSpent" value="56076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -359,7 +364,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17501318" sideWeight="0.49661836" order="6" side_tool="false" content_ui="combo" />
@@ -369,22 +373,34 @@
       <window_info id="Event Log" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17501318" sideWeight="0.50338167" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17554033" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.176" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Errors in solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17501318" sideWeight="0.50338167" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="UnitTesting" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32576504" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17554033" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39387956" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32971373" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32872656" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971373" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17501318" sideWeight="0.49661836" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971373" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -398,7 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/10A197CF-85BB-486E-81A4-7C68E94CFB80/07/4185ea46/IE.cs" />
     <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/74A297D3-7D02-4DFA-BE01-ADADA75BF6B9/6a/642ba55d/GC.cs" />
     <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/10A197CF-85BB-486E-81A4-7C68E94CFB80/e3/8291fe37/Document.cs" />
     <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Class1.cs" />
@@ -705,18 +720,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="535">
-          <caret line="67" column="0" lean-forward="false" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+    <entry file="dbDummy://dbtable:/c9da3393/b449a18a-59aa-4879-8ecc-279a7dbebf18/DungeonCrawlBot.dbo.Accounts">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlWebBotSocket.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        <state relative-caret-position="405">
+          <caret line="27" column="62" lean-forward="true" selection-start-line="27" selection-start-column="62" selection-end-line="27" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="59" column="55" lean-forward="true" selection-start-line="59" selection-start-column="55" selection-end-line="59" selection-end-column="55" />
           <folding />
         </state>
       </provider>

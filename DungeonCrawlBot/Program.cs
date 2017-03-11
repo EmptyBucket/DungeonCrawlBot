@@ -91,8 +91,7 @@ namespace DungeonCrawlBot
 
         public static void Main(string[] args)
         {
-            var webSocket = new ClientWebSocket();
-            //Start().Wait();
+            Start().Wait();
         }
     }
 }
