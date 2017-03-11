@@ -1,0 +1,10 @@
+E:\DungeonCrawlBot\DataBase\bin\Debug\DataBase.dll.config
+E:\DungeonCrawlBot\DataBase\bin\Debug\DataBase.dll
+E:\DungeonCrawlBot\DataBase\bin\Debug\DataBase.pdb
+E:\DungeonCrawlBot\DataBase\bin\Debug\EntityFramework.dll
+E:\DungeonCrawlBot\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+E:\DungeonCrawlBot\DataBase\bin\Debug\EntityFramework.xml
+E:\DungeonCrawlBot\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+E:\DungeonCrawlBot\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+E:\DungeonCrawlBot\DataBase\obj\Debug\DataBase.dll
+E:\DungeonCrawlBot\DataBase\obj\Debug\DataBase.pdb

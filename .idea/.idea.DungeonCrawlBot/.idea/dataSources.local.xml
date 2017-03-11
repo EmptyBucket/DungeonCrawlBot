@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="" uuid="b449a18a-59aa-4879-8ecc-279a7dbebf18">
+      <database-info product="Microsoft SQL Server" version="11.00.2100" jdbc-version="3.0" driver-name="jTDS Type 4 JDBC Driver for MS SQL Server and Sybase" driver-version="1.3.0">
+        <extra-name-characters>$#@</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>MyLogin</user-name>
+      <introspection-schemas>DungeonCrawlBot:INFORMATION_SCHEMA,dbo,guest,sys</introspection-schemas>
+      <resolve-scope>master:*</resolve-scope>
+      <unqualified-resolve-schemas>master:*</unqualified-resolve-schemas>
+    </data-source>
+  </component>
+</project>

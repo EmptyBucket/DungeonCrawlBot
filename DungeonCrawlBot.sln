@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DungeonCrawlBot", "DungeonCrawlBot\DungeonCrawlBot.csproj", "{45F466BA-0EEC-4A52-92CA-8192AA2B6A8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{BD6BCD52-E350-49CE-9DA1-25A79FAC7BDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehindTheNameGenerator", "BehindTheNameGenerator\BehindTheNameGenerator.csproj", "{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45F466BA-0EEC-4A52-92CA-8192AA2B6A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45F466BA-0EEC-4A52-92CA-8192AA2B6A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45F466BA-0EEC-4A52-92CA-8192AA2B6A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45F466BA-0EEC-4A52-92CA-8192AA2B6A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD6BCD52-E350-49CE-9DA1-25A79FAC7BDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6BCD52-E350-49CE-9DA1-25A79FAC7BDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6BCD52-E350-49CE-9DA1-25A79FAC7BDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6BCD52-E350-49CE-9DA1-25A79FAC7BDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

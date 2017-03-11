@@ -1,0 +1,10 @@
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\BehindTheNameGenerator.dll
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\BehindTheNameGenerator.pdb
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\System.Net.Http.dll
+E:\DungeonCrawlBot\BehindTheNameGenerator\obj\Debug\BehindTheNameGenerator.csprojResolveAssemblyReference.cache
+E:\DungeonCrawlBot\BehindTheNameGenerator\obj\Debug\BehindTheNameGenerator.dll
+E:\DungeonCrawlBot\BehindTheNameGenerator\obj\Debug\BehindTheNameGenerator.pdb
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\HtmlAgilityPack.dll
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\HtmlAgilityPack.xml
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\HtmlAgilityPack.CssSelectors.dll
+E:\DungeonCrawlBot\BehindTheNameGenerator\bin\Debug\HtmlAgilityPack.CssSelectors.pdb
