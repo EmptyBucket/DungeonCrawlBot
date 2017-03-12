@@ -52,8 +52,8 @@ E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Security.Cryptography.Algori
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Security.Cryptography.Encoding.dll
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Security.Cryptography.Primitives.dll
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Security.Cryptography.X509Certificates.dll
-E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\websocket-sharp.dll
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\log4net.xml
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Net.WebSockets.Client.Managed.pdb
 E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\System.Net.WebSockets.Client.Managed.xml
-E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\websocket-sharp.xml
+E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\DungeonCrawlApi.dll
+E:\DungeonCrawlBot\DungeonCrawlBot\bin\Debug\DungeonCrawlApi.pdb

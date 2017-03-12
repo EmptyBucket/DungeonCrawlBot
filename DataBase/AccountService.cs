@@ -1,4 +1,6 @@
-﻿namespace DataBase
+﻿using System.Collections.Generic;
+
+namespace DataBase
 {
     public class AccountService
     {
@@ -8,6 +10,8 @@
         {
             _context = context;
         }
+
+        public IEnumerable<Account> GetAccounts() => _context.Accounts;
 
         public void Add(Account account)
         {

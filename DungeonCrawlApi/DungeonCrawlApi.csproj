@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2D2607A0-9860-4139-BA2E-2EFE3A5F17BB}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DungeonCrawlApi</RootNamespace>
+    <AssemblyName>DungeonCrawlApi</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="DungeonCrawlApiFactory\DungeonCrawlBrowserEmulatorApiFactory.cs" />
+    <Compile Include="DungeonCrawlApiFactory\DungeonCrawlWebSocketApiFactory.cs" />
+    <Compile Include="DungeonCrawlApiFactory\IDungeonCrawlApiFactory.cs" />
+    <Compile Include="DungeonCrawlBrowserEmulatorApi\Command.cs" />
+    <Compile Include="DungeonCrawlBrowserEmulatorApi\CommandParams.cs" />
+    <Compile Include="DungeonCrawlBrowserEmulatorApi\DungeonCrawlBrowserEmulatorApi.cs" />
+    <Compile Include="DungeonCrawlWebSocketApi\DungeonCrawlWebSocketApi.cs" />
+    <Compile Include="DungeonCrawlWebSocketApi\IDungeonCrawlApi.cs" />
+    <Compile Include="Generators\IEmailDomainGenerator.cs" />
+    <Compile Include="Generators\IPasswordGenerator.cs" />
+    <Compile Include="Generators\PasswordGeneratorAdapter.cs" />
+    <Compile Include="Generators\RandomEmailDomainGenerator.cs" />
+    <Compile Include="Modules\BehindTheNameGeneratorModule.cs" />
+    <Compile Include="Modules\EmailGeneratorModule.cs" />
+    <Compile Include="Modules\PasswordGeneratorModule.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Interop.SHDocVw, Version=1.1.0.0, Culture=neutral, PublicKeyToken=db7cfd3acb5ad44e">
+      <HintPath>..\packages\WatiN.2.1.0\lib\net40\Interop.SHDocVw.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.mshtml, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+      <HintPath>..\packages\WatiN.2.1.0\lib\net40\Microsoft.mshtml.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=10.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed">
+      <HintPath>..\packages\Newtonsoft.Json.10.0.1-beta1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=4.0.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7">
+      <HintPath>..\packages\Ninject.4.0.0-beta-0134\lib\net45\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="PasswordGenerator, Version=1.1.2.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\PasswordGenerator.1.1.2\lib\net45\PasswordGenerator.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51">
+      <HintPath>..\packages\System.Buffers.4.3.0\lib\netstandard1.1\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Net.WebSockets.Client.Managed, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\packages\System.Net.WebSockets.Client.Managed.1.0.4\lib\net45\System.Net.WebSockets.Client.Managed.dll</HintPath>
+    </Reference>
+    <Reference Include="WatiN.Core, Version=2.1.0.1196, Culture=neutral, PublicKeyToken=db7cfd3acb5ad44e">
+      <HintPath>..\packages\WatiN.2.1.0\lib\net40\WatiN.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BehindTheNameGenerator\BehindTheNameGenerator.csproj">
+      <Project>{00B90F82-2A3C-49AC-92FF-84A0A42E5DCC}</Project>
+      <Name>BehindTheNameGenerator</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

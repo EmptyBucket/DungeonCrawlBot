@@ -34,16 +34,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="BehindTheNameGenerator.cs" />
-    <Compile Include="BehindTheNameParametersFactory.cs" />
-    <Compile Include="BehindTheNameParser.cs" />
-    <Compile Include="BehindTheNameUrlBuilder.cs" />
-    <Compile Include="Gender.cs" />
-    <Compile Include="HttpClientAdapter.cs" />
-    <Compile Include="IClient.cs" />
+    <Compile Include="Client\HttpClientAdapter.cs" />
+    <Compile Include="Client\IClient.cs" />
+    <Compile Include="Common\Gender.cs" />
     <Compile Include="INameGenerator.cs" />
-    <Compile Include="IParametersFactory.cs" />
-    <Compile Include="IParser.cs" />
-    <Compile Include="IUrlBuilder.cs" />
+    <Compile Include="ParametersFactory\BehindTheNameParametersFactory.cs" />
+    <Compile Include="ParametersFactory\IParametersFactory.cs" />
+    <Compile Include="Parser\BehindTheNameParser.cs" />
+    <Compile Include="Parser\IParser.cs" />
+    <Compile Include="UrlBuilder\BehindTheNameUrlBuilder.cs" />
+    <Compile Include="UrlBuilder\IUrlBuilder.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="HtmlAgilityPack, Version=1.4.9.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a">
