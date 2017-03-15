@@ -2,6 +2,7 @@
 
 namespace DungeonCrawlApi.Generators
 {
+    //adapter pattern
     public class PasswordGeneratorAdapter : IPasswordGenerator
     {
         private readonly PasswordGenerator _generator;

@@ -33,11 +33,13 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BehindTheNameGenerator.cs" />
+    <Compile Include="NameGenerator\BehindTheNameGenerator.cs" />
+    <Compile Include="NameGenerator\INameGenerator.cs" />
     <Compile Include="Client\HttpClientAdapter.cs" />
     <Compile Include="Client\IClient.cs" />
+    <Compile Include="Client\IClientFactory.cs" />
+    <Compile Include="Client\ProxyHttpClientFactory.cs" />
     <Compile Include="Common\Gender.cs" />
-    <Compile Include="INameGenerator.cs" />
     <Compile Include="ParametersFactory\BehindTheNameParametersFactory.cs" />
     <Compile Include="ParametersFactory\IParametersFactory.cs" />
     <Compile Include="Parser\BehindTheNameParser.cs" />

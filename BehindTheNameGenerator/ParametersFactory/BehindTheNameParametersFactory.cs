@@ -1,8 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using BehindTheNameGenerator.Common;
 
-namespace BehindTheNameGenerator
+namespace BehindTheNameGenerator.ParametersFactory
 {
+    //factory pattern
     public class BehindTheNameParametersFactory : IParametersFactory
     {
         public string Factory()

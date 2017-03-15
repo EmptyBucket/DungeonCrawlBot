@@ -1,4 +1,4 @@
-﻿namespace BehindTheNameGenerator
+﻿namespace BehindTheNameGenerator.UrlBuilder
 {
     public interface IUrlBuilder
     {

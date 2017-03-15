@@ -1,87 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="10b563eb-9419-4911-ae25-97e9e1326e72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Modules/BehindTheNameGeneratorModule.cs" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBotBrowserEmulator/Account.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Modules/BehindTheNameGeneratorModule.cs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/websocket-sharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/websocket-sharp.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/Newtonsoft.Json.9.0.2-beta1.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net20/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net20/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net35/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net35/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net40/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net40/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net45/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/net45/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.0/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.0/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.1/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/netstandard1.1/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net40+sl5+wp80+win8+wpa81/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/lib/portable-net45+wp80+win8+wpa81/Newtonsoft.Json.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.9.0.2-beta1/tools/install.ps1" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/WebSocketSharp.1.0.3-rc11/WebSocketSharp.1.0.3-rc11.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/WebSocketSharp.1.0.3-rc11/lib/websocket-sharp.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/WebSocketSharp.1.0.3-rc11/lib/websocket-sharp.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Knapcode.TorSharp.1.6.0/Knapcode.TorSharp.1.6.0.nupkg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/packages/Knapcode.TorSharp.1.6.0/lib/net45/Knapcode.TorSharp.dll" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.vs/DungeonCrawlBot/v15/.suo" afterPath="$PROJECT_DIR$/.vs/DungeonCrawlBot/v15/.suo" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/bin/Debug/BehindTheNameGenerator.dll" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/bin/Debug/BehindTheNameGenerator.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/bin/Debug/BehindTheNameGenerator.pdb" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/bin/Debug/BehindTheNameGenerator.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/BehindTheNameGenerator.dll" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/BehindTheNameGenerator.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/BehindTheNameGenerator.pdb" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/BehindTheNameGenerator.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/obj/Debug/CoreCompileInputs.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB.mdf" afterPath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB.mdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB_log.ldf" afterPath="$PROJECT_DIR$/DataBase/DungeonCrawlBotDB_log.ldf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/bin/Debug/DataBase.dll" afterPath="$PROJECT_DIR$/DataBase/bin/Debug/DataBase.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/bin/Debug/DataBase.pdb" afterPath="$PROJECT_DIR$/DataBase/bin/Debug/DataBase.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/obj/Debug/DataBase.dll" afterPath="$PROJECT_DIR$/DataBase/obj/Debug/DataBase.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/obj/Debug/DataBase.pdb" afterPath="$PROJECT_DIR$/DataBase/obj/Debug/DataBase.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/BehindTheNameGenerator.dll" afterPath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/BehindTheNameGenerator.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/BehindTheNameGenerator.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/BehindTheNameGenerator.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/DungeonCrawlApi.dll" afterPath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/DungeonCrawlApi.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/DungeonCrawlApi.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlApi/bin/Debug/DungeonCrawlApi.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.csprojResolveAssemblyReference.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.dll" afterPath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlApi/obj/Debug/DungeonCrawlApi.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/BehindTheNameGenerator.dll" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/BehindTheNameGenerator.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/BehindTheNameGenerator.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/BehindTheNameGenerator.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DataBase.dll" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DataBase.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DataBase.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DataBase.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlApi.dll" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlApi.dll" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlApi.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlApi.pdb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.exe" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/DungeonCrawlBot.pdb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/Newtonsoft.Json.dll" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/Newtonsoft.Json.dll" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/CoreCompileInputs.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csprojResolveAssemblyReference.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.exe" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.exe" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.pdb" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlWebSocketApi/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/DungeonCrawlWebSocketApi/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlWebSocketApi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" afterPath="$PROJECT_DIR$/DungeonCrawlWebSocketApi/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/riderModule.iml" afterPath="$PROJECT_DIR$/.idea/.idea.DungeonCrawlBot/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameGenerator.csproj" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameGenerator.csproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/AccountService.cs" afterPath="$PROJECT_DIR$/DataBase/AccountService.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/Parser/BehindTheNameParser.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Parser/BehindTheNameParser.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/Account.cs" afterPath="$PROJECT_DIR$/DataBase/Account.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataBase/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DataBase/Properties/AssemblyInfo.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot.sln" afterPath="$PROJECT_DIR$/DungeonCrawlBot.sln" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj" afterPath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/Newtonsoft.Json.xml" afterPath="$PROJECT_DIR$/DungeonCrawlBot/bin/Debug/Newtonsoft.Json.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/DungeonCrawlBot/obj/Debug/DungeonCrawlBot.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Properties/AssemblyInfo.cs" afterPath="$PROJECT_DIR$/DungeonCrawlBot/Properties/AssemblyInfo.cs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DungeonCrawlBot/packages.config" afterPath="$PROJECT_DIR$/DungeonCrawlBot/packages.config" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameParametersFactory.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/ParametersFactory/BehindTheNameParametersFactory.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameParser.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Parser/BehindTheNameParser.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameUrlBuilder.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/UrlBuilder/BehindTheNameUrlBuilder.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/Gender.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Common/Gender.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/HttpClientAdapter.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Client/HttpClientAdapter.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/IClient.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Client/IClient.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/IParametersFactory.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/ParametersFactory/IParametersFactory.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/IParser.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/Parser/IParser.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BehindTheNameGenerator/IUrlBuilder.cs" afterPath="$PROJECT_DIR$/BehindTheNameGenerator/UrlBuilder/IUrlBuilder.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBotBrowserEmulator/Command.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlBrowserEmulatorApi/Command.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBotBrowserEmulator/CommandParams.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlBrowserEmulatorApi/CommandParams.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBotBrowserEmulator/DungeonCrawlBotBrowserEmulator.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlBrowserEmulatorApi/DungeonCrawlBrowserEmulatorApi.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlWebBotSocket.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Generators/IEmailDomainGenerator.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Generators/IEmailDomainGenerator.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Generators/IPasswordGenerator.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Generators/IPasswordGenerator.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Generators/PasswordGeneratorAdapter.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Generators/PasswordGeneratorAdapter.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Generators/RandomEmailDomainGenerator.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Generators/RandomEmailDomainGenerator.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/IDungeonCrawlBot.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlWebSocketApi/IDungeonCrawlApi.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Modules/EmailGeneratorModule.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Modules/EmailGeneratorModule.cs" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/DungeonCrawlBot/Modules/PasswordGeneratorModule.cs" afterPath="$PROJECT_DIR$/DungeonCrawlApi/Modules/PasswordGeneratorModule.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -125,14 +92,28 @@
       </PATH_ELEMENT>
     </PATH>
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DungeonCrawlBot.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -145,6 +126,9 @@
       <find>initial cata</find>
       <find>yandex</find>
       <find>ws://crawl.akrasiac.org:8080/socket</find>
+      <find>desktop</find>
+      <find>Stop</find>
+      <find>Random</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -153,15 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DungeonCrawlBot/app.config" />
-        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/AC28C8DB-D887-487E-8DCF-CE2C70F95670/aa/d47654f5/Dictionary`2.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/INamGenerator.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/IParameterFactory.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/IUrlBuilder.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/BehindTheNameUrlBuilder.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/Gender.cs" />
-        <option value="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBotWebSocket/DungeonCrawlWebBotSocket.cs" />
-        <option value="$PROJECT_DIR$/BehindTheNameGenerator/IClient.cs" />
         <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/7D9BCA69-FB59-4C3A-96AE-7C2666A4BEF5/7b/48d30b23/HttpClient.cs" />
         <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/7D9BCA69-FB59-4C3A-96AE-7C2666A4BEF5/e0/484ed944/HttpMessageInvoker.cs" />
         <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/7D9BCA69-FB59-4C3A-96AE-7C2666A4BEF5/03/63e27d82/HttpClientHandler.cs" />
@@ -197,13 +172,22 @@
         <option value="$PROJECT_DIR$/DungeonCrawlApi/Modules/BehindTheNameGeneratorModule.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlApi/Modules/EmailGeneratorModule.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlApi/Modules/PasswordGeneratorModule.cs" />
-        <option value="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs" />
-        <option value="$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs" />
-        <option value="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlWebSocketApi/IDungeonCrawlApi.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlBrowserEmulatorApi/DungeonCrawlBrowserEmulatorApi.cs" />
+        <option value="$PROJECT_DIR$/DungeonCrawlBot/WebSockerSersers.cs" />
+        <option value="$PROJECT_DIR$/DungeonCrawlBot/WebServerLabels.cs" />
+        <option value="$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs" />
+        <option value="$PROJECT_DIR$/DungeonCrawlBot/Program.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/a4/fa06a819/TorSharpSettings.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/de/dfe71169/LineByLineConfigurer.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/0b/ed5d4c09/IToolRunner.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/11/b0b20d34/TorSharpProxy.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/97/942e755c/WindowsUtility.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/be/09438e03/Tool.cs" />
+        <option value="$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/cc/535cdd69/VirtualDesktopToolRunner.cs" />
         <option value="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj" />
+        <option value="$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs" />
       </list>
     </option>
   </component>
@@ -255,11 +239,15 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DungeonCrawlBot (4 projects)" />
+              <option name="myItemId" value="DungeonCrawlBot (5 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DungeonCrawlBot" />
+              <option name="myItemId" value="Knapcode.TorSharp" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="References" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -269,7 +257,7 @@
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DungeonCrawlBot (4 projects)" />
+              <option name="myItemId" value="DungeonCrawlBot (5 projects)" />
               <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
             </PATH_ELEMENT>
           </PATH>
@@ -282,12 +270,12 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="DDL Data Source&#10;SQL Server (Microsoft)&#10;SQL Server (jTds)&#10;Database Driver" />
-    <property name="SearchEverywhereHistoryKey" value="DungeonCrawlApi&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlApi/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs&#10;Nuget&#9;ACTION&#9;ActivateNuGetToolWindow&#10;Settings&#9;ACTION&#9;Database.Settings&#10;DungeonCrawlWebSocketApi&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs&#10;keymap&#9;ACTION&#9;ChangeKeymap&#10;termin&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Adapter&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/HttpClientAdapter.cs&#10;Generate&#9;null&#9;null&#10;BehindTheNamePar&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parser&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parse&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;HttpMessa&#9;null&#9;null&#10;Program&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlBot/Program.cs&#10;settings&#9;ACTION&#9;Database.Settings&#10;AccountConfi&#9;FILE&#9;file://E:/DungeonCrawlBot/DataBase/AccountConfiguration.cs&#10;DataBase&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="Nuget&#9;ACTION&#9;ActivateNuGetToolWindow&#10;TorShar&#9;FILE&#9;file://C:/Users/Alexey/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/11/b0b20d34/TorSharpProxy.cs&#10;Virtual&#9;null&#9;null&#10;ToolRunn&#9;FILE&#9;file://C:/Users/Alexey/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/0b/ed5d4c09/IToolRunner.cs&#10;DungeonCrawlApi&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlApi/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs&#10;Settings&#9;ACTION&#9;Database.Settings&#10;DungeonCrawlWebSocketApi&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlWebSocketApi/DungeonCrawlWebSocketApi.cs&#10;keymap&#9;ACTION&#9;ChangeKeymap&#10;termin&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Ter&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Terminal&#9;ACTION&#9;ActivateTerminalToolWindow&#10;Adapter&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/HttpClientAdapter.cs&#10;Generate&#9;null&#9;null&#10;BehindTheNamePar&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parser&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;Parse&#9;FILE&#9;file://E:/DungeonCrawlBot/BehindTheNameGenerator/BehindTheNameParser.cs&#10;HttpMessa&#9;null&#9;null&#10;Program&#9;FILE&#9;file://E:/DungeonCrawlBot/DungeonCrawlBot/Program.cs&#10;settings&#9;ACTION&#9;Database.Settings&#10;AccountConfi&#9;FILE&#9;file://E:/DungeonCrawlBot/DataBase/AccountConfiguration.cs&#10;DataBase&#9;null&#9;null" />
     <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
     <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DungeonCrawlApi/DungeonCrawlApi.csproj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Knapcode.TorSharp/Knapcode.TorSharp.csproj" />
   </component>
   <component name="RunManager" selected=".NET Project.DungeonCrawlBot">
     <configuration default="false" name="DungeonCrawlBot" type="DotNetProject" factoryName=".NET Project" temporary="true">
@@ -408,11 +396,13 @@
       <workItem from="1489260551556" duration="2688000" />
       <workItem from="1489322694674" duration="1489000" />
       <workItem from="1489324223451" duration="1354000" />
+      <workItem from="1489361087839" duration="3021000" />
+      <workItem from="1489364138457" duration="746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66964000" />
+    <option name="totallyTimeSpent" value="73984000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -428,7 +418,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36047775" sideWeight="0.49661836" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15709014" sideWeight="0.49661836" order="9" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32971373" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.176" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3247779" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
@@ -438,7 +428,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41486558" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="NuGet" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6694781" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -464,106 +454,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/72351c28-4038-424c-8f90-3393ad40d3c5/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/8201eba8-0c6e-4d20-a5d1-5ccb750d673c/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/AccountModel.cs" />
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBrowserEmulatorApi/DungeonCrawlBotBrowserEmulator/Account.cs" />
-    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/3D9E5111-A8C1-4FBD-8A34-D10850C7A8BE/0e/50895d02/PersonNameGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="11" lean-forward="false" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/packages.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/Account.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/AccountConfiguration.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/DbContext.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/packages.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataBase/App.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/app.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/AC28C8DB-D887-487E-8DCF-CE2C70F95670/aa/d47654f5/Dictionary`2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="430" column="56" lean-forward="false" selection-start-line="430" selection-start-column="53" selection-end-line="430" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BehindTheNameGenerator/UrlBuilder/IUrlBuilder.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BehindTheNameGenerator/ParametersFactory/IParametersFactory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BehindTheNameGenerator/Common/Gender.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BehindTheNameGenerator/Client/IClient.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -706,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -722,7 +610,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -730,7 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -738,7 +624,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -746,7 +631,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -754,7 +638,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="35" lean-forward="false" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -762,7 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="37" lean-forward="true" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,23 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="84" column="0" lean-forward="false" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -794,7 +659,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -802,7 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-186">
           <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -810,22 +673,153 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="57" lean-forward="true" selection-start-line="21" selection-start-column="57" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/WebServerLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/WebServerLabels.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Modules/DungeonCrawlBotModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="11" lean-forward="false" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/a4/fa06a819/TorSharpSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="11" lean-forward="false" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/B4362FE3-F044-47E3-9756-454C84AFAC76/05/8191b531/SearchOption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/de/dfe71169/LineByLineConfigurer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="48" column="30" lean-forward="false" selection-start-line="48" selection-start-column="23" selection-end-line="48" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/0b/ed5d4c09/IToolRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="9" lean-forward="false" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/97/942e755c/WindowsUtility.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/c8/95c418ea/ToolSettings.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="43" lean-forward="false" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/be/09438e03/Tool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/cc/535cdd69/VirtualDesktopToolRunner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-230">
+          <caret line="59" column="14" lean-forward="true" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Shared/v08/DecompilerCache/decompiler/D69C4AA9-B571-4795-9AAF-F7CEE8E73E96/11/b0b20d34/TorSharpProxy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="85" column="0" lean-forward="true" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RiderProjects/TorSharp/src/Knapcode.TorSharp/Adapters/Random.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/Sdks/Microsoft.NET.Sdk/build/Microsoft.NET.Sdk.DefaultItems.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="181" column="62" lean-forward="true" selection-start-line="181" selection-start-column="62" selection-end-line="181" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/RiderProjects/TorSharp/src/Knapcode.TorSharp/PInvoke/Desktop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1695">
-          <caret line="113" column="23" lean-forward="false" selection-start-line="113" selection-start-column="23" selection-end-line="113" selection-end-column="23" />
+        <state relative-caret-position="676">
+          <caret line="112" column="23" lean-forward="false" selection-start-line="112" selection-start-column="23" selection-end-line="112" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/Program.cs">
+    <entry file="file://C:/Program Files (x86)/Microsoft Visual Studio/2017/Enterprise/MSBuild/15.0/Bin/Roslyn/Microsoft.CSharp.Core.targets">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Knapcode.TorSharp/Tools/DownloadableFile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DungeonCrawlBot/DungeonCrawlBot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>

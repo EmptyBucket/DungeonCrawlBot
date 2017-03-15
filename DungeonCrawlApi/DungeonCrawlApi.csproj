@@ -33,7 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="DungeonCrawlApiFactory\DungeonCrawlBrowserEmulatorApiFactory.cs" />
     <Compile Include="DungeonCrawlApiFactory\DungeonCrawlWebSocketApiFactory.cs" />
     <Compile Include="DungeonCrawlApiFactory\IDungeonCrawlApiFactory.cs" />
     <Compile Include="DungeonCrawlBrowserEmulatorApi\Command.cs" />
@@ -45,9 +44,6 @@
     <Compile Include="Generators\IPasswordGenerator.cs" />
     <Compile Include="Generators\PasswordGeneratorAdapter.cs" />
     <Compile Include="Generators\RandomEmailDomainGenerator.cs" />
-    <Compile Include="Modules\BehindTheNameGeneratorModule.cs" />
-    <Compile Include="Modules\EmailGeneratorModule.cs" />
-    <Compile Include="Modules\PasswordGeneratorModule.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Interop.SHDocVw, Version=1.1.0.0, Culture=neutral, PublicKeyToken=db7cfd3acb5ad44e">

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace BehindTheNameGenerator
+namespace BehindTheNameGenerator.Client
 {
     public interface IClient
     {

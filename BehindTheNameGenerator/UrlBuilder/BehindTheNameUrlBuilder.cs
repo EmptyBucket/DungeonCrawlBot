@@ -1,5 +1,8 @@
-﻿namespace BehindTheNameGenerator
+﻿using BehindTheNameGenerator.ParametersFactory;
+
+namespace BehindTheNameGenerator.UrlBuilder
 {
+    //builder pattern
     public class BehindTheNameUrlBuilder : IUrlBuilder
     {
         private readonly IParametersFactory _parametersFactory;

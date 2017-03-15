@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace DataBase
+﻿namespace DataBase
 {
     public class Account
     {

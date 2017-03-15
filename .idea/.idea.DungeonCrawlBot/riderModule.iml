@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../DataBase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../DungeonCrawlApi" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../DungeonCrawlBot" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../TorSharp" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/../../BehindTheNameGenerator/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../BehindTheNameGenerator/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../DataBase/bin" />
@@ -14,6 +15,8 @@
       <excludeFolder url="file://$MODULE_DIR$/../../DungeonCrawlApi/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../DungeonCrawlBot/bin" />
       <excludeFolder url="file://$MODULE_DIR$/../../DungeonCrawlBot/obj" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TorSharp/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../TorSharp/obj" />
       <excludeFolder url="file://$MODULE_DIR$/../../packages" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />

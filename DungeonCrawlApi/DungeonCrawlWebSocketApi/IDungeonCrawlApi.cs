@@ -13,5 +13,6 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
         Task SendMessageAsync(string message);
         Task WatchAsync(string username);
         IWebProxy Proxy { get; set; }
+        Task GoLobby();
     }
 }

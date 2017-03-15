@@ -1,0 +1,5 @@
+E:\DungeonCrawlBot\TorSharp\obj\Debug\TorSharp.csprojResolveAssemblyReference.cache
+E:\DungeonCrawlBot\TorSharp\bin\Debug\TorSharp.dll
+E:\DungeonCrawlBot\TorSharp\bin\Debug\TorSharp.pdb
+E:\DungeonCrawlBot\TorSharp\obj\Debug\TorSharp.dll
+E:\DungeonCrawlBot\TorSharp\obj\Debug\TorSharp.pdb

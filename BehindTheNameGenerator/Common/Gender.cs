@@ -1,4 +1,4 @@
-﻿namespace BehindTheNameGenerator
+﻿namespace BehindTheNameGenerator.Common
 {
     public enum Gender
     {

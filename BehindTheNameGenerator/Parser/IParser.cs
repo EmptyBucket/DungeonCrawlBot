@@ -1,4 +1,4 @@
-namespace BehindTheNameGenerator
+namespace BehindTheNameGenerator.Parser
 {
     public interface IParser
     {

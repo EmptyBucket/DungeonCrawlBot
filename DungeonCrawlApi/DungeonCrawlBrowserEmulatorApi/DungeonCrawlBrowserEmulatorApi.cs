@@ -86,5 +86,10 @@ namespace DungeonCrawlApi.DungeonCrawlBrowserEmulatorApi
         }
 
         public IWebProxy Proxy { get; set; }
+
+        public Task GoLobby()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

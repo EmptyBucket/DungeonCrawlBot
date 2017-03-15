@@ -22,11 +22,13 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
         {
             var bytes = Encoding.UTF8.GetBytes(json);
             var arraySegment = new ArraySegment<byte>(bytes);
-            await _clientWebSocket.SendAsync(arraySegment, WebSocketMessageType.Binary, true, CancellationToken.None);
+            await _clientWebSocket.SendAsync(arraySegment, WebSocketMessageType.Binary, true, CancellationToken.None)
+                .ConfigureAwait(false);
         }
 
         public async Task ConnectAsync(string socketServer) =>
-            await _clientWebSocket.ConnectAsync(new Uri(socketServer), CancellationToken.None);
+            await _clientWebSocket.ConnectAsync(new Uri(socketServer), CancellationToken.None)
+                .ConfigureAwait(false);
 
         public async Task WatchAsync(string username)
         {
@@ -35,7 +37,8 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
                 username,
                 msg = "watch"
             });
-            await SendSocketMessage(serializeObject);
+            await SendSocketMessage(serializeObject)
+                .ConfigureAwait(false);
         }
 
         public async Task RegisterAsync(string username, string password, string email)
@@ -45,7 +48,8 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
                 username, password, email,
                 msg = "register"
             });
-            await SendSocketMessage(serializeObject);
+            await SendSocketMessage(serializeObject)
+                .ConfigureAwait(false);
         }
 
         public async Task LoginAsync(string username, string password)
@@ -55,7 +59,8 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
                 username, password,
                 msg = "login"
             });
-            await SendSocketMessage(serializeObject);
+            await SendSocketMessage(serializeObject)
+                .ConfigureAwait(false);
         }
 
         public async Task SendMessageAsync(string message)
@@ -65,12 +70,24 @@ namespace DungeonCrawlApi.DungeonCrawlWebSocketApi
                 msg = "chat_msg",
                 text = message
             });
-            await SendSocketMessage(serializeObject);
+            await SendSocketMessage(serializeObject)
+                .ConfigureAwait(false);
+        }
+
+        public async Task GoLobby()
+        {
+            var serializeObject = JsonConvert.SerializeObject(new
+            {
+                msg = "go_lobby"
+            });
+            await SendSocketMessage(serializeObject)
+                .ConfigureAwait(false);
         }
 
         public void Dispose()
         {
-            _clientWebSocket.CloseAsync(WebSocketCloseStatus.NormalClosure, string.Empty, CancellationToken.None);
+            if (_clientWebSocket.State == WebSocketState.Open)
+                _clientWebSocket.CloseAsync(WebSocketCloseStatus.NormalClosure, string.Empty, CancellationToken.None);
             _clientWebSocket.Dispose();
         }
 

@@ -69,7 +69,7 @@
   <ItemGroup>
     <Compile Include="Account.cs" />
     <Compile Include="AccountConfiguration.cs" />
-    <Compile Include="AccountService.cs" />
+    <Compile Include="AccountDataService.cs" />
     <Compile Include="DbContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

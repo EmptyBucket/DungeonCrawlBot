@@ -1,8 +1,7 @@
 using System;
-using System.Linq;
 using HtmlAgilityPack;
 
-namespace BehindTheNameGenerator
+namespace BehindTheNameGenerator.Parser
 {
     public class BehindTheNameParser : IParser
     {
